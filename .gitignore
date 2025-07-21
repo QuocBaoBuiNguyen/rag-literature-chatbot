@@ -8,9 +8,25 @@
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
+# Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Ignore Python virtual environments and environment files
+.env
+*/.env
+
+# Ignore Python cache files in all nested directories
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # Package Files #
+.venv/
+venv/
+*/.venv/
+*/venv/
 *.jar
 *.war
 *.nar
@@ -22,3 +38,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+.venv/
+*/.env
