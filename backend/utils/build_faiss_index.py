@@ -5,6 +5,7 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
+# MODEL_NAME = "BAAI/bge-large-zh"  # hoặc "bge-base-vi"
 MODEL_NAME = "shibing624/text2vec-base-chinese"  # hoặc "bge-base-vi"
 FAISS_INDEX_PATH = "data/faiss_index.bin"
 DOCS_PKL_PATH = "data/doc_chunks.pkl"

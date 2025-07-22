@@ -15,6 +15,7 @@ async def lifespan(app: FastAPI):
         print("🛠️ Building FAISS index on app startup...")
         docs = parse_xml_to_chunks("data/result_07.xml")
         build_and_save_faiss_index(docs, "shibing624/text2vec-base-chinese")
+        # build_and_save_faiss_index(docs, "BAAI/bge-large-zh")
 
     rag_globals.index = load_faiss_index()
     rag_globals.embeddings = load_embedding_model()
