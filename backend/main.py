@@ -14,18 +14,7 @@ async def lifespan(app: FastAPI):
     if not os.path.exists("data/faiss_index.bin"):
         print("🛠️ Building FAISS index on app startup...")
         
-    #Cách phèn
-        # docs1 = parse_xml_to_chunks("data/result_05.xml")
-        # docs3 = parse_xml_to_chunks("data/result_07.xml")
-        # docs4 = parse_xml_to_chunks("data/result_12.xml")
-        # docs6 = parse_xml_to_chunks("data/result_14.xml")
-        # docs2 = parse_xml_to_chunks("data/result_06.xml")  
-        # docs5 = parse_xml_to_chunks("data/result_13.xml")
-        
-        # docs = docs1  + docs3 + docs4  + docs6 + docs2 + docs5
-        
-    #Xịn hơn tí
-        ## Gọi parse_xml_to_chunks cho từng file và nối các kết quả list lại
+        # Gọi parse_xml_to_chunks cho từng file và nối các kết quả list lại
         docs = []
         for f in os.listdir("data"):
             if f.endswith(".xml"):
