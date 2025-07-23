@@ -13,7 +13,24 @@ from rag.embedding import load_embedding_model
 async def lifespan(app: FastAPI):
     if not os.path.exists("data/faiss_index.bin"):
         print("🛠️ Building FAISS index on app startup...")
-        docs = parse_xml_to_chunks("data/result_07.xml")
+        
+    #Cách phèn
+        # docs1 = parse_xml_to_chunks("data/result_05.xml")
+        # docs3 = parse_xml_to_chunks("data/result_07.xml")
+        # docs4 = parse_xml_to_chunks("data/result_12.xml")
+        # docs6 = parse_xml_to_chunks("data/result_14.xml")
+        # docs2 = parse_xml_to_chunks("data/result_06.xml")  
+        # docs5 = parse_xml_to_chunks("data/result_13.xml")
+        
+        # docs = docs1  + docs3 + docs4  + docs6 + docs2 + docs5
+        
+    #Xịn hơn tí
+        ## Gọi parse_xml_to_chunks cho từng file và nối các kết quả list lại
+        docs = []
+        for f in os.listdir("data"):
+            if f.endswith(".xml"):
+                docs.extend(parse_xml_to_chunks(os.path.join("data", f)))
+
         build_and_save_faiss_index(docs, "shibing624/text2vec-base-chinese")
         # build_and_save_faiss_index(docs, "BAAI/bge-large-zh")
 
