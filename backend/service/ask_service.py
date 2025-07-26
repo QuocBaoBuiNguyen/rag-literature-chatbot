@@ -3,12 +3,27 @@ from rag.vector_store import load_faiss_index, search_similar_chunks
 from rag.content_retriever import load_documents
 from rag import globals as rag_globals
 from llm.chatbot_llm import generate_answer  # giả sử bạn dùng LLM local
+import time
+
+_response_cache = {}
+_cache_ttl = 3600
 
 # Load FAISS index và documents 1 lần khi import
 # index, embeddings = load_faiss_index()
 # documents = load_documents()
 
 def ask_llm_with_rag(question: str) -> str:
+    current_time = time.time()
+    
+    # Check if question is already cached and not expired
+    if question in _response_cache:
+        cached_data = _response_cache[question]
+        if current_time - cached_data['timestamp'] < _cache_ttl:
+            return cached_data['response']
+        else:
+            del _response_cache[question]
+    
+    
     # 1. Embed câu hỏi
     query_vec = embed_query(question, rag_globals.embeddings)
     print(f"🔍 Câu hỏi đã được nhúng: {query_vec[:10]}...")  # In ra 10 giá trị đầu tiên của vector
@@ -29,4 +44,12 @@ def ask_llm_with_rag(question: str) -> str:
 
     print(f"🔍 Prompt cho LLM: {prompt[:500]}...")  # In ra 100 ký tự đầu tiên của prompt
     # 4. Gọi LLM local sinh câu trả lời
-    return generate_answer(prompt)
+    answer = generate_answer(prompt)
+    
+    # Cache the response with timestamp
+    _response_cache[question] = {
+        'response': answer,
+        'timestamp': current_time
+    }
+    
+    return answer
