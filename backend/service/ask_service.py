@@ -2,27 +2,23 @@ from rag.embedding import embed_query
 from rag.vector_store import load_faiss_index, search_similar_chunks
 from rag.content_retriever import load_documents
 from rag import globals as rag_globals
-from llm.chatbot_llm import generate_answer  # giả sử bạn dùng LLM local
+from llm.chatbot_llm import generate_answer
+from utils.cache_manager import get_cached_response, cache_response, get_cache_stats
 import time
-
-_response_cache = {}
-_cache_ttl = 3600
 
 # Load FAISS index và documents 1 lần khi import
 # index, embeddings = load_faiss_index()
 # documents = load_documents()
 
 def ask_llm_with_rag(question: str) -> str:
-    current_time = time.time()
+    """Enhanced RAG function with caching for faster responses"""
     
-    # Check if question is already cached and not expired
-    if question in _response_cache:
-        cached_data = _response_cache[question]
-        if current_time - cached_data['timestamp'] < _cache_ttl:
-            return cached_data['response']
-        else:
-            del _response_cache[question]
+    # Check cache first for faster response
+    cached_response = get_cached_response(question)
+    if cached_response:
+        return cached_response
     
+    start_time = time.time()
     
     # 1. Embed câu hỏi
     query_vec = embed_query(question, rag_globals.embeddings)
@@ -44,12 +40,12 @@ def ask_llm_with_rag(question: str) -> str:
 
     print(f"🔍 Prompt cho LLM: {prompt[:500]}...")  # In ra 100 ký tự đầu tiên của prompt
     # 4. Gọi LLM local sinh câu trả lời
-    answer = generate_answer(prompt)
+    response = generate_answer(prompt)
     
-    # Cache the response with timestamp
-    _response_cache[question] = {
-        'response': answer,
-        'timestamp': current_time
-    }
+    # Cache the response for future use
+    cache_response(question, response)
     
-    return answer
+    processing_time = time.time() - start_time
+    print(f"⏱️ Response generated in {processing_time:.2f} seconds")
+    
+    return response
