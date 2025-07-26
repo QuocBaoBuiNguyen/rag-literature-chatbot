@@ -10,5 +10,8 @@ async def start():
 @cl.on_message
 async def handle_message(message: cl.Message):
     response = requests.post(BACKEND_URL, json={"question": message.content})
-    answer = response.json()["answer"]
-    await cl.Message(answer).send()
+    try:
+        answer = response.json()["answer"]
+        await cl.Message(answer).send()
+    except Exception as e:
+        await cl.Message("Có lỗi xảy ra khi trả lời. Vui lòng thử lại sau.").send()
