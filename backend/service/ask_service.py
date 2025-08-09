@@ -10,7 +10,7 @@ import time
 # index, embeddings = load_faiss_index()
 # documents = load_documents()
 
-def ask_llm_with_rag(question: str) -> str:
+def ask_llm_with_rag(question: str) -> tuple[str, str]: # type: ignore
     """Enhanced RAG function with caching for faster responses"""
     
     # Check cache first for faster response
@@ -38,7 +38,7 @@ def ask_llm_with_rag(question: str) -> str:
             Câu hỏi: {question}
             Trả lời ngắn gọn, bằng tiếng Việt dễ hiểu."""
 
-    print(f"🔍 Prompt cho LLM: {prompt[:500]}...")  # In ra 100 ký tự đầu tiên của prompt
+    print(f"🔍 Prompt cho LLM: {prompt[:500]}...")
     # 4. Gọi LLM local sinh câu trả lời
     response = generate_answer(prompt)
     
@@ -48,4 +48,4 @@ def ask_llm_with_rag(question: str) -> str:
     processing_time = time.time() - start_time
     print(f"⏱️ Response generated in {processing_time:.2f} seconds")
     
-    return response
+    return response, context
