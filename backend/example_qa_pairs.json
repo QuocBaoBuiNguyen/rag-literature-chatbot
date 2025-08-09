@@ -1,0 +1,602 @@
+[
+  {
+    "question": "《桑滄偶錄》中，神宗皇帝前身為誰？",
+    "answer": "Theo truyện 'Thần Tông Hoàng Đế', kiếp trước của vua Thần Tông là một vị sư trụ trì."
+  },
+  {
+    "question": "《王府故事》中，敬天造龍舟幾艘？",
+    "answer": "Kính Thiên đã cho chế tạo một trăm chiếc thuyền rồng (long phu)."
+  },
+  {
+    "question": "《阮公維時》中，阮公維何故歸隱？",
+    "answer": "Ông bất mãn với việc triều đình thối nát, tham quan hoành hành nên đã từ quan về ở ẩn."
+  },
+  {
+    "question": "《劍湖》篇中，府內池塘有何異象？",
+    "answer": "Vào nửa đêm, trong ao nổi lên một luồng sáng xanh, sau đó tan ra, cuối cùng có một con cá nổi lên mặt nước."
+  },
+  {
+    "question": "《阮公文階》中，阮公遇賣舊書者何為？",
+    "answer": "Ông đã mua lại toàn bộ sách cũ của người đó vì thương cảm cho hoàn cảnh của họ."
+  },
+  {
+    "question": "《安老農夫》中，農夫如何報答社神之恩？",
+    "answer": "Ông đã báo mộng cho trưởng làng, xin được lập miếu thờ để tạ ơn thần xã."
+  },
+  {
+    "question": "《阮公沉》中，阮公如何應對饑荒？",
+    "answer": "Ông đã cho người đóng giả thành cướp, đi cướp của nhà giàu rồi đem chia cho dân nghèo."
+  },
+  {
+    "question": "《化虎》篇中，人披何物而化為虎？",
+    "answer": "Người đàn ông biến thành hổ sau khi mặc một chiếc áo da hổ."
+  },
+  {
+    "question": "《段將軍尚》中，將軍得神夢後何為？",
+    "answer": "Ông đã cho người đi tìm và mang về một thanh bảo kiếm theo lời chỉ dẫn của thần linh."
+  },
+  {
+    "question": "《內道場》中，弟子無錢供養，祖師何為？",
+    "answer": "Vị tổ sư đã biến một cây trượng vàng thành vàng thật để ban cho đệ tử."
+  },
+  {
+    "question": "《朱文貞》篇中，其卒後，棺內有何物？",
+    "answer": "Khi mở quan tài ra, người ta chỉ thấy một đôi giày rơm, còn thi thể của ông đã biến mất."
+  },
+  {
+    "question": "《惜雛埋母傳》中，惜雛被誣時如何自明？",
+    "answer": "Bà nói rằng mình trong sạch và đã chỉ tay vào bụng, nói rằng trong bụng có một khối đá để chứng minh."
+  },
+  {
+    "question": "《野寺伽藍》中，野寺內有何發現？",
+    "answer": "Người ta tìm thấy một pho tượng Phật bằng đá với khuôn mặt như người sống."
+  },
+  {
+    "question": "《城南磨崖碑》中，石碑發現於何處？",
+    "answer": "Tấm bia đá được tìm thấy ở núi Nhật Thành, cách thành một dặm về phía nam."
+  },
+  {
+    "question": "《花報》篇中，花豹何故不食婦人？",
+    "answer": "Vì người phụ nữ đó đã từng cho con báo ăn khi nó còn nhỏ và bị thương."
+  },
+  {
+    "question": "《真福元國公傳記》中，國公遇神時有何祈求？",
+    "answer": "Ông đã cầu xin thần giúp mình vượt qua kỳ thi và hứa sẽ tạ lễ sau khi đỗ đạt."
+  },
+  {
+    "question": "《金顏山記》中，入山者何故而死？",
+    "answer": "Vì họ đã ăn phải một loại quả độc có hình dáng giống quả dâu tằm."
+  },
+  {
+    "question": "《霹靂將軍記》中，將軍如何求得神助？",
+    "answer": "Ông đã cho người lập đàn tế và cầu nguyện thần linh giúp đỡ trong trận chiến."
+  },
+  {
+    "question": "《武公黜》中，武公被父王斥責後何為？",
+    "answer": "Ông đã tự vẫn để chứng minh sự trong sạch của mình."
+  },
+  {
+    "question": "《聽聞異錄序》中，作者言此書收錄何等故事？",
+    "answer": "Tác giả cho biết sách ghi chép những câu chuyện kỳ lạ, truyền thuyết dân gian và các sự tích lịch sử."
+  },
+  {
+    "question": "《地仙》篇中，地仙住世多久而不老？",
+    "answer": "Nhân vật 'Địa Tiên' sống một trăm năm mà không già đi."
+  },
+  {
+    "question": "《探花生》中，書生如何得見仙女？",
+    "answer": "Chàng trai đã trèo lên một cây hoa đào khổng lồ và gặp được tiên nữ trên đó."
+  },
+  {
+    "question": "《虎父》篇中，虎父教其子何事？",
+    "answer": "Người cha hổ đã dạy con mình cách săn mồi và lòng dũng cảm."
+  },
+  {
+    "question": "《天榜》中，書生緣何科場失利？",
+    "answer": "Vì chàng thư sinh nghèo đến mức không có tiền mua giấy bút để làm bài thi."
+  },
+  {
+    "question": "《神醫》篇中，神醫以何法治病？",
+    "answer": "Ông đã dùng một cây kim châm cứu đặc biệt để chữa bệnh cho mọi người."
+  },
+  {
+    "question": "《無頭佳》中，將軍被斬首時有何言？",
+    "answer": "Ông nói rằng: 'Chết không đầu, nhưng không chết không đầu'."
+  },
+  {
+    "question": "《石犬》中，石犬如何報答主人？",
+    "answer": "Con chó đá đã biến thành vàng để giúp người chủ thoát khỏi cảnh nghèo khó."
+  },
+  {
+    "question": "《水塚》篇中，掘開水塚時有何異事發生？",
+    "answer": "Khi đào ngôi mộ dưới nước, một con ngựa trắng đã từ trong mộ phi ra."
+  },
+  {
+    "question": "《龍王殿》中，公主為何不能嫁人？",
+    "answer": "Vì cô đã hứa hôn với Long Vương và không thể lấy người khác."
+  },
+  {
+    "question": "《兩朝宰相》中，宰相被貶官後有何反應？",
+    "answer": "Ông vẫn vui vẻ chấp nhận và nói rằng đó là ý trời."
+  },
+  {
+    "question": "《夢榜》中，書生為何能中狀元？",
+    "answer": "Vì anh ta đã mơ thấy mình được một vị thần giúp đỡ trong kỳ thi."
+  },
+  {
+    "question": "《足下園》中，主人公拾金後何為？",
+    "answer": "Anh ta đã không tham lam mà đem số vàng đó trả lại cho người đánh mất."
+  },
+  {
+    "question": "《紅霞》篇中，紅霞如何為父報仇？",
+    "answer": "Cô gái đã giả trai, học võ và trở thành một vị tướng quân để trả thù cho cha."
+  },
+  {
+    "question": "《雞屍》篇中，雞被宰後有何變化？",
+    "answer": "Con gà đã biến thành một con phượng hoàng và bay đi."
+  },
+  {
+    "question": "《影父》篇中，其子為何無影？",
+    "answer": "Vì người cha của anh ta thực chất là một cái bóng, không phải người thật."
+  },
+  {
+    "question": "《虎撲》中，主人公遭虎撲時如何應對？",
+    "answer": "Anh ta đã dùng hết sức bình sinh để đánh lại con hổ và thoát chết."
+  },
+  {
+    "question": "《海蛤》中，舟人緣何流落荒島？",
+    "answer": "Vì họ đã gặp phải một cơn bão lớn và thuyền của họ bị đắm."
+  },
+  {
+    "question": "《山鬼》篇中，山鬼如何對待迷路之人？",
+    "answer": "Con quỷ núi đã bắt những người đi lạc và ăn thịt họ."
+  },
+  {
+    "question": "《羅漢山石》中，山石有何奇特之形？",
+    "answer": "Hòn đá có hình dạng giống như một vị La Hán đang ngồi thiền."
+  },
+  {
+    "question": "《范華堂》中，范公如何救民？",
+    "answer": "Ông đã dùng tài năng y thuật của mình để chữa bệnh cho người dân trong vùng."
+  },
+  {
+    "question": "《何榜眼》中，何公之眼有何異能？",
+    "answer": "Đôi mắt đã giúp anh ta có thể nhìn thấy những thứ mà người thường không thể thấy."
+  },
+  {
+    "question": "《白進士》中，進士膚色白皙，其故何也？",
+    "answer": "Vì chàng tiến sĩ đã tắm trong một hồ nước thần có khả năng làm trắng da."
+  },
+  {
+    "question": "《陳制科》中，主人公為何不願為官？",
+    "answer": "Ông từ chối làm quan vì muốn sống một cuộc sống tự do, không bị ràng buộc."
+  },
+  {
+    "question": "《兵臂》篇中，士兵用何計策勝敵？",
+    "answer": "Anh ta đã dùng một cánh tay giả để đánh lừa và đánh bại kẻ thù."
+  },
+  {
+    "question": "《偽節》篇中，將軍如何試探部下之忠誠？",
+    "answer": "Ông đã giả vờ chết để xem ai sẽ là người trung thành với mình."
+  },
+  {
+    "question": "《鯉魚墳》中，主人公捕得奇魚後如何處置？",
+    "answer": "Anh ta đã không ăn thịt con cá mà thả nó đi, sau đó được con cá báo ơn."
+  },
+  {
+    "question": "《德魚》篇中，德魚何以能言人語？",
+    "answer": "Vì con cá đó là hóa thân của một vị thần."
+  },
+  {
+    "question": "《金鵬》篇中，金鵬鳥如何幫助百姓？",
+    "answer": "Con chim bằng vàng đã dùng lông của mình để tạo ra vàng bạc, giúp đỡ người dân nghèo khó."
+  },
+  {
+    "question": "《神鐘》篇中，如何使神鐘鳴響？",
+    "answer": "Anh ta đã dùng máu của mình để tế lễ, khiến chiếc chuông thần kêu lên."
+  },
+  {
+    "question": "《城中虎》篇中，猛虎為何不食城中百姓？",
+    "answer": "Vì con hổ đó là hóa thân của một vị quan thanh liêm, chỉ trừng trị những kẻ tham quan ô lại."
+  },
+  {
+    "question": "《老窗粗錄》中，太祖高皇帝為誰之子？",
+    "answer": "Theo sách, vua Thái Tổ Cao Hoàng Đế (Lê Lợi) là con trai thứ ba của Tuyên Tổ Hoàng Đế (Lê Khoáng)."
+  },
+  {
+    "question": "太祖高皇帝之母夢見何等祥瑞而有孕？",
+    "answer": "Mẹ của vua Thái Tổ mơ thấy một vị thần nhân trao cho bà một chiếc ấn ngọc, sau đó bà mang thai."
+  },
+  {
+    "question": "太宗文皇帝即位時年僅幾歲？",
+    "answer": "Vua Thái Tông Văn Hoàng Đế lên ngôi khi mới mười một tuổi."
+  },
+  {
+    "question": "仁宗宣皇帝在位期間，其母后有何賢德之舉？",
+    "answer": "Mẹ của vua Nhân Tông là bà Nguyễn Thị Anh đã hết lòng phò tá, giúp đất nước được thái bình, thịnh trị."
+  },
+  {
+    "question": "聖宗淳皇帝夢中，仙人留下何物？",
+    "answer": "Trong giấc mộng của vua Thánh Tông, vị tiên nhân đã để lại một chiếc giày tiên (仙履) trước khi biến mất."
+  },
+  {
+    "question": "聖宗皇帝與仙人對詩時，仙人所作詩句有何深意？",
+    "answer": "Câu thơ của tiên nhân ngụ ý rằng cuộc gặp gỡ giữa vua và tiên là duyên trời định, nhưng cũng chóng qua như một giấc mộng."
+  },
+  {
+    "question": "憲宗睿皇帝在位期間，國家有何災異？",
+    "answer": "Dưới thời vua Hiến Tông, đất nước xảy ra nhiều trận động đất và sao chổi xuất hiện, được cho là điềm không lành."
+  },
+  {
+    "question": "威穆帝在位時，因何事被國人所怨？",
+    "answer": "Vua Uy Mục bị oán ghét vì tính tình tàn bạo, giết hại nhiều công thần và người trong hoàng tộc."
+  },
+  {
+    "question": "襄翼帝起兵討伐威穆帝時，以何名義？",
+    "answer": "Vua Tương Dực Đế lấy danh nghĩa phò Lê diệt Mạc, diệt trừ hôn quân Uy Mục để dấy binh."
+  },
+  {
+    "question": "恭皇帝在位時，國家實權落入誰手？",
+    "answer": "Dưới thời vua Cung Hoàng, quyền lực thực tế nằm trong tay của Mạc Đăng Dung."
+  },
+  {
+    "question": "世宗毅皇帝如何評價阮公的功績？",
+    "answer": "Vua Thế Tông đã ca ngợi công lao của Nguyễn Công, cho rằng ông là bậc kỳ tài, có công lớn với xã tắc."
+  },
+  {
+    "question": "敬宗惠皇帝年間，阮公為何事而憂心忡忡？",
+    "answer": "Nguyễn Công lo lắng về việc triều đình chia bè kết phái, chiến tranh liên miên khiến dân chúng lầm than."
+  },
+  {
+    "question": "神宗淵皇帝在位時，鄭氏與阮氏之間發生何事？",
+    "answer": "Dưới thời vua Thần Tông, cuộc chiến tranh Trịnh-Nguyễn bùng nổ, kéo dài nhiều năm."
+  },
+  {
+    "question": "《皇越春秋》開篇所述，陳添平冒稱何等身分以求明朝之助？",
+    "answer": "Trần Thiêm Bình giả mạo là con trai của vua Trần Nghệ Tông để cầu viện nhà Minh giúp lật đổ Hồ Quý Ly."
+  },
+  {
+    "question": "胡季犛為何要殺害陳叔度？",
+    "answer": "Hồ Quý Ly giết Trần Thúc Độ vì lo sợ ông sẽ tiết lộ thân phận thật của Trần Thiêm Bình và làm hỏng kế hoạch của mình."
+  },
+  {
+    "question": "明朝將領沐晟初入越南時，其軍隊有多少人？",
+    "answer": "Khi Mộc Thạnh tiến vào Việt Nam, quân đội của ông ta có tám mươi vạn người."
+  },
+  {
+    "question": "黎利在藍山起義時，最初得到哪位將領的幫助？",
+    "answer": "Khi Lê Lợi khởi nghĩa ở Lam Sơn, ông đã nhận được sự giúp đỡ của tướng quân Lê Sát."
+  },
+  {
+    "question": "在第五回中，黎蒼設計行凶的主要目的是什麼？",
+    "answer": "Mục đích chính của Lê Thương là tiêu diệt các trung thần của nhà Trần, dọn đường cho Hồ Quý Ly cướp ngôi."
+  },
+  {
+    "question": "明朝軍隊圍困多邦城時，守將是誰？",
+    "answer": "Khi quân Minh vây thành Đa Bang, tướng giữ thành là Nguyễn Chích."
+  },
+  {
+    "question": "《皇越春秋》第七回，為何稱之為「議征南朝選將」？",
+    "answer": "Chương này được gọi như vậy vì nó mô tả việc triều đình nhà Minh bàn bạc và lựa chọn tướng lĩnh để đem quân chinh phạt phương Nam (Việt Nam)."
+  },
+  {
+    "question": "張總兵遺拔關一回中，張總兵是如何失掉關隘的？",
+    "answer": "Trương Tổng Binh (Trương Phụ) bị mất ải vì chủ quan khinh địch, rơi vào bẫy phục kích của quân Lam Sơn."
+  },
+  {
+    "question": "沐晟敗華懶關一回中，沐晟敗 trận的原因是什麼？",
+    "answer": "Mộc Thạnh thất bại ở ải Hoa Lãn vì quân đội của ông bị trúng độc và mất sức chiến đấu."
+  },
+  {
+    "question": "黎利兄弟起兵討賊時，得到了哪位神人的幫助？",
+    "answer": "Anh em Lê Lợi đã nhận được sự giúp đỡ của thần nhân ở núi Lam Sơn, người đã ban cho họ gươm báu và binh thư."
+  },
+  {
+    "question": "在第十二回中，黎將軍用了什麼計策來回師問謀？",
+    "answer": "Lê Lợi đã dùng kế trá hàng để lừa quân Minh, sau đó bất ngờ quay lại tấn công, giành thắng lợi."
+  },
+  {
+    "question": "范文巧印走豐州一回中，范文巧為何要逃走？",
+    "answer": "Phạm Văn Xảo phải bỏ ấn tín chạy trốn khỏi Phong Châu vì bị quân Minh truy đuổi gắt gao."
+  },
+  {
+    "question": "在第十六回中，問村夫民獻中計的「計」是指什麼？",
+    "answer": "Kế sách đó là việc các nghĩa sĩ giả làm dân thường, trà trộn vào làng để do thám tình hình quân Minh."
+  },
+  {
+    "question": "胡參軍降黎軍師一回中，胡參軍為何決定投降？",
+    "answer": "Hồ Tham Quân quyết định đầu hàng vì ông nhận thấy nhà Hồ đã mất lòng dân, trong khi Lê Lợi được lòng người và có khí thế của bậc đế vương."
+  },
+  {
+    "question": "沐石將起擊段發，黎上將賺襲東都的目的是什麼？",
+    "answer": "Mục đích của Lê Lợi khi cho quân đánh úp Đông Đô là để tạo thanh thế, gây hoang mang cho quân Minh và giải vây cho các cánh quân khác."
+  },
+  {
+    "question": "向西都彬中賊謀一回中，「賊謀」指的是什麼？",
+    "answer": "“Mưu của giặc” ở đây chỉ âm mưu của quân Minh muốn dùng kế trá hàng để lừa nghĩa quân Lam Sơn vào bẫy."
+  },
+  {
+    "question": "木丸江折二將，閔海口明覆三軍中，為何明軍會大敗？",
+    "answer": "Quân Minh đại bại vì bị trúng kế của Lê Lợi, thuyền bè bị đốt cháy ở sông Mộc Hoàn và bị phục kích ở cửa biển."
+  },
+  {
+    "question": "在第二十二回中，據安南張輔獻圖的「圖」是什麼？",
+    "answer": "Bản đồ đó là bản đồ phòng thủ của thành Đông Quan do Trương Phụ dâng lên để giúp quân Minh chống lại nghĩa quân Lam Sơn."
+  },
+  {
+    "question": "阮決心守城，段將軍設計下城的「設計」是什麼？",
+    "answer": "Kế sách của Đoàn Tướng quân là dùng kế đào hầm, đột nhập vào thành và mở cửa từ bên trong."
+  },
+  {
+    "question": "黃尚書永還北，山招撫奉命如南中，黃尚書為何要回北方？",
+    "answer": "Hoàng Thượng thư (Hoàng Phúc) muốn quay về phương Bắc vì ông nhận thấy tình thế của quân Minh ở Việt Nam đã không thể cứu vãn."
+  },
+  {
+    "question": "在第五十二回中，敗浙江王通死，賴黃山黃必生魂的「黃必」是誰？",
+    "answer": "Hoàng Tất là một vị thần núi đã hiện hồn giúp nghĩa quân đánh bại Vương Thông."
+  },
+  {
+    "question": "破東關重受首，裴清化何忍喪身中，裴清化為何自殺？",
+    "answer": "Bùi Thanh Hóa tự sát vì cảm thấy tội lỗi khi đã đầu hàng giặc và không còn mặt mũi nào nhìn lại vua Lê."
+  },
+  {
+    "question": "在第五十四回中，平迤南均懸頭，攻建昌馬書失守的原因是什麼？",
+    "answer": "Nguyên nhân thất thủ là do quân giữ thành chủ quan, bị quân Minh tấn công bất ngờ."
+  },
+  {
+    "question": "黎讓將緩兵交趾，馬忠臣死節昌江中，馬忠臣為何死？",
+    "answer": "Mã Trung Thần (Mã Kỳ) đã tự vẫn để không rơi vào tay nghĩa quân sau khi thành Xương Giang thất thủ."
+  },
+  {
+    "question": "陳暠歸神南宮裏，黎利即位東關中的「歸神」是什麼意思？",
+    "answer": "“Về với thần” ở đây là một cách nói uyển chuyển để chỉ việc Trần Cảo qua đời (hoặc bị giết)."
+  },
+  {
+    "question": "《皇越春秋》的最後一回，描述了怎樣的結局？",
+    "answer": "Chương cuối cùng của sách mô tả việc Lê Lợi lên ngôi hoàng đế, lập ra nhà Hậu Lê, đất nước thái bình và ban thưởng cho các công thần."
+  },
+  {
+    "question": "《皇越春秋》將黎利描寫成怎樣的君主？",
+    "answer": "Sách mô tả Lê Lợi là một vị vua anh minh, có tài quân sự, biết dùng người và được lòng dân."
+  },
+  {
+    "question": "胡季犛在《皇越春秋》中被塑造成何等人物？",
+    "answer": "Hồ Quý Ly được miêu tả là một kẻ gian hùng, có tài nhưng xảo quyệt, cướp ngôi nhà Trần và gây ra chiến tranh."
+  },
+  {
+    "question": "明朝將領張輔在書中以何種形象出現？",
+    "answer": "Trương Phụ được miêu tả là một viên tướng dũng mãnh nhưng kiêu ngạo và tàn bạo của nhà Minh."
+  },
+  {
+    "question": "書中哪位將領以足智多謀著稱？",
+    "answer": "Trong sách, Nguyễn Chích được biết đến là người nổi tiếng túc trí đa mưu."
+  },
+  {
+    "question": "藍山義軍早期根據地在何處？",
+    "answer": "Căn cứ ban đầu của nghĩa quân Lam Sơn là ở vùng núi Lam Sơn, thuộc Thanh Hóa."
+  },
+  {
+    "question": "書中提及的「萬戶侯」是什麼樣的官職？",
+    "answer": "Vạn Hộ Hầu là một chức tước cao quý, phong cho người có công lớn, được hưởng thực ấp một vạn hộ dân."
+  },
+  {
+    "question": "明軍在越南失敗的主要原因之一是什麼？",
+    "answer": "Một trong những nguyên nhân chính dẫn đến thất bại của quân Minh là do họ không được lòng dân, cai trị tàn bạo và bị nghĩa quân chống trả quyết liệt."
+  },
+  {
+    "question": "《皇越春秋》的故事橫跨了哪些朝代？",
+    "answer": "Câu chuyện trong sách kéo dài qua các triều đại: cuối nhà Trần, nhà Hồ và giai đoạn đầu của nhà Hậu Lê."
+  },
+  {
+    "question": "書中「木丸」是指今天的哪個地名？",
+    "answer": "“Mộc Hoàn” trong sách có thể là một địa danh cổ ở vùng hạ lưu sông Mã hoặc sông Chu ở Thanh Hóa."
+  },
+  {
+    "question": "《皇越春秋》的作者對明朝的侵略持何種態度？",
+    "answer": "Tác giả giữ thái độ lên án, coi hành động của nhà Minh là cuộc xâm lược phi nghĩa, gây đau khổ cho người dân Việt Nam."
+  },
+  {
+    "question": "《越南開國志傳》之作者為誰？",
+    "answer": "Theo lời đề tựa, tác giả của sách là Nguyễn Bảng Trung, giữ chức Lại bộ Thượng thư."
+  },
+  {
+    "question": "故事初期，黎朝國政由何人執掌，導致權臣崛起？",
+    "answer": "Vào thời kỳ đầu được mô tả, vua Lê Chiêu Tông và Lê Cung Hoàng nhu nhược, khiến cho quyền thần Mạc Đăng Dung nổi lên nắm quyền."
+  },
+  {
+    "question": "阮淦因何事而擁立黎莊宗？",
+    "answer": "Nguyễn Kim vì bất bình với việc Mạc Đăng Dung cướp ngôi nhà Lê, nên đã tìm con cháu nhà Lê là Lê Ninh (tức Lê Trang Tông) để tôn lên làm vua, nhằm khôi phục lại cơ đồ."
+  },
+  {
+    "question": "鄭檢如何對待阮汪與阮潢兄弟？",
+    "answer": "Trịnh Kiểm đã ngầm sai người đầu độc chết người anh là Nguyễn Uông và tìm cách hãm hại người em là Nguyễn Hoàng."
+  },
+  {
+    "question": "阮潢通過何人向鄭檢請求南下鎮守？",
+    "answer": "Nguyễn Hoàng đã thông qua chị gái của mình là Ngọc Bảo (vợ của Trịnh Kiểm) để xin Trịnh Kiểm cho vào trấn thủ Thuận Hóa."
+  },
+  {
+    "question": "阮主初到順化時，如何收服人心？",
+    "answer": "Khi đến Thuận Hóa, chúa Nguyễn Hoàng đã thi hành chính sách khoan dung, giảm nhẹ thuế khóa, vỗ về dân chúng, do đó được lòng người."
+  },
+  {
+    "question": "阮福源（世祖）在位時，與北方鄭主關係如何？",
+    "answer": "Dưới thời chúa Sãi Nguyễn Phúc Nguyên, quan hệ với chúa Trịnh trở nên căng thẳng, ông không còn tuân phục và bắt đầu cuộc chiến tranh Trịnh - Nguyễn."
+  },
+  {
+    "question": "書中提及的「長育英賢」是指哪位阮主？",
+    "answer": "“Trường Dục Anh Hiền” là chỉ chúa Hiền Nguyễn Phúc Tần, người có công mở mang bờ cõi và phát triển Đàng Trong."
+  },
+  {
+    "question": "鄭柞攻打阮主時，因何故而失敗？",
+    "answer": "Trịnh Tạc tấn công thất bại do quân Nguyễn phòng thủ vững chắc ở Lũy Thầy, đồng thời quân Trịnh bị dịch bệnh và thiếu lương thực."
+  },
+  {
+    "question": "《越南開國志傳》中，西山三兄弟起兵的最初理由是什麼？",
+    "answer": "Ba anh em Tây Sơn dấy binh ban đầu với lý do chống lại quyền thần Trương Phúc Loan và phò trợ hoàng tôn Nguyễn Phúc Dương."
+  },
+  {
+    "question": "阮岳稱帝後，定都於何處？",
+    "answer": "Sau khi xưng đế, Nguyễn Nhạc (Thái Đức Hoàng Đế) đã chọn thành Quy Nhơn làm kinh đô."
+  },
+  {
+    "question": "阮惠北伐時，以何名義出師？",
+    "answer": "Nguyễn Huệ tiến quân ra Bắc với danh nghĩa “phù Lê diệt Trịnh”."
+  },
+  {
+    "question": "阮惠與公主玉欣的婚事有何政治目的？",
+    "answer": "Cuộc hôn nhân giữa Nguyễn Huệ và công chúa Ngọc Hân nhằm củng cố mối quan hệ giữa Tây Sơn và nhà Lê, hợp thức hóa sự hiện diện của quân Tây Sơn ở Thăng Long."
+  },
+  {
+    "question": "黎昭統帝為何要引清兵入關？",
+    "answer": "Vua Lê Chiêu Thống cầu viện nhà Thanh vì bị quân Tây Sơn đánh đuổi, mất hết quyền lực và mong muốn mượn tay nhà Thanh để khôi phục ngai vàng."
+  },
+  {
+    "question": "阮惠登基稱帝（光中）的主要原因為何？",
+    "answer": "Nguyễn Huệ lên ngôi hoàng đế để chính thức thống nhất danh nghĩa, hiệu triệu lòng dân và có đủ uy thế để lãnh đạo cuộc kháng chiến chống quân Thanh xâm lược."
+  },
+  {
+    "question": "光中皇帝如何擊敗二十萬清軍？",
+    "answer": "Vua Quang Trung đã thực hiện cuộc hành quân thần tốc, tấn công bất ngờ vào dịp Tết Kỷ Dậu (1789), phá tan các đồn giặc và giải phóng Thăng Long."
+  },
+  {
+    "question": "書中如何評價阮主和鄭主之間的百年戰爭？",
+    "answer": "Sách miêu tả cuộc chiến Trịnh - Nguyễn là một cuộc tương tàn huynh đệ, làm hao tổn sức dân, chia cắt đất nước và tạo cơ hội cho các thế lực bên ngoài."
+  },
+  {
+    "question": "阮福映在流亡期間，得到哪些外國勢力的幫助？",
+    "answer": "Trong thời gian lưu vong, Nguyễn Phúc Ánh đã nhận được sự giúp đỡ từ Xiêm La (Thái Lan) và sau đó là Pháp."
+  },
+  {
+    "question": "《越南開國志傳》的結尾停在何處？",
+    "answer": "Sách kết thúc vào thời điểm vua Gia Long (Nguyễn Phúc Ánh) thống nhất đất nước, lập ra triều Nguyễn."
+  },
+  {
+    "question": "阮光纘為何最終會失敗？",
+    "answer": "Nguyễn Quang Toản thất bại do nội bộ triều đình Tây Sơn lục đục, anh em nghi kỵ lẫn nhau, mất lòng dân và không thể chống lại sức mạnh ngày càng lớn của Nguyễn Ánh."
+  },
+  {
+    "question": "書中「龍尾」是指今天的哪個地名？",
+    "answer": "“Long Vĩ” (đuôi rồng) là một địa danh cổ, có thể chỉ một vùng đất hoặc ngọn núi ở khu vực Thanh Hóa - Nghệ An."
+  },
+  {
+    "question": "書中描寫的「橫山」是哪座山脈？",
+    "answer": "“Hoành Sơn” được đề cập trong sách chính là dãy núi Hoành Sơn, ranh giới tự nhiên giữa Hà Tĩnh và Quảng Bình ngày nay."
+  },
+  {
+    "question": "《驩州記》的作者是誰？",
+    "answer": "Tác giả của Hoan Châu Ký được cho là Nguyễn Cảnh thị ở Hoan Châu."
+  },
+  {
+    "question": "在第一節「天之轉也 地之振也」中，老人預見了什麼事？",
+    "answer": "Ông lão đã tiên đoán được sự thay đổi của thời cuộc, sự sụp đổ của một triều đại và sự nổi lên của một triều đại mới thông qua các điềm báo của trời đất."
+  },
+  {
+    "question": "第二節「弘休避亂清江」中，弘休為何能預知戰亂？",
+    "answer": "Hoằng Hưu có thể dự đoán được loạn lạc là nhờ vào khả năng chiêm tinh và quan sát các hiện tượng tự nhiên bất thường."
+  },
+  {
+    "question": "第三節「阮子牙兵遮奧」中，阮子牙兵是如何擊退敵軍的？",
+    "answer": "Nguyễn Tử Nha Binh đã dùng mưu kế, lợi dụng địa hình hiểm trở để mai phục và đánh tan quân địch."
+  },
+  {
+    "question": "第四節「鄭太師尊立廢帝」中，鄭太師廢立皇帝的理由是什麼？",
+    "answer": "Trịnh Thái sư lấy lý do vua không đủ tài đức, hoang dâm vô đạo để phế truất và lập vua mới."
+  },
+  {
+    "question": "第五節「阮郡侯大破阮藩」中，阮郡侯用了什麼戰術？",
+    "answer": "Nguyễn Quận công đã dùng chiến thuật tấn công bất ngờ, chia cắt đội hình địch để giành chiến thắng."
+  },
+  {
+    "question": "第六節「節制黃金贈賢公」中，黃金的來源是什麼？",
+    "answer": "Số vàng đó là do một vị thần ban tặng cho người hiền đức để làm việc nghĩa."
+  },
+  {
+    "question": "在第三回「阮景破大石倭兵」中，倭兵有何特點？",
+    "answer": "Quân Oa (Nhật Bản) được miêu tả là rất thiện chiến, hung hãn và sử dụng các loại vũ khí sắc bén."
+  },
+  {
+    "question": "第四節「節制黃金贈賢公」中，「賢公」是誰？",
+    "answer": "“Hiền Công” là chỉ một vị quan thanh liêm, đức độ, được người dân yêu mến."
+  },
+  {
+    "question": "第四回「廣廉侯婚尚王姬」中，為何稱之為「夢見龍國」？",
+    "answer": "Được gọi là “mộng thấy nước rồng” vì Quảng Liêm Hầu đã mơ thấy mình đến một thủy cung và được vua Thủy Tề gả công chúa cho."
+  },
+  {
+    "question": "第五回「阮郡公死節關中」中，阮郡公如何殉節？",
+    "answer": "Nguyễn Quận công đã chiến đấu đến hơi thở cuối cùng và tự vẫn để không rơi vào tay giặc."
+  },
+  {
+    "question": "書中描述的「乂安」是今天的哪個省份？",
+    "answer": "“Nghệ An” trong sách tương ứng với tỉnh Nghệ An ngày nay."
+  },
+  {
+    "question": "《驩州記》主要記錄了哪個時期的事件？",
+    "answer": "Hoan Châu Ký chủ yếu ghi lại các sự kiện và truyền thuyết từ thời Hậu Lê đến thời Trịnh-Nguyễn phân tranh."
+  },
+  {
+    "question": "書中提到的「北朝」和「南朝」分別指代哪個政權？",
+    "answer": "“Bắc triều” chỉ chính quyền của vua Lê - chúa Trịnh ở Đàng Ngoài, còn “Nam triều” chỉ chính quyền của chúa Nguyễn ở Đàng Trong."
+  },
+  {
+    "question": "在第六回「吏部尚書該兼副斷事阮榜中承撰」中，阮榜中為何要寫這本書？",
+    "answer": "Nguyễn Bảng Trung viết sách này để ghi lại lịch sử, ca ngợi công đức của các vị chúa Nguyễn và làm gương cho đời sau."
+  },
+  {
+    "question": "書中「龍江」是指哪條河流？",
+    "answer": "“Long Giang” có thể là một tên gọi cổ của sông Mã hoặc một con sông lớn khác ở vùng Thanh - Nghệ."
+  },
+  {
+    "question": "阮福瀕在位時，被稱為「賢主」，其原因為何？",
+    "answer": "Nguyễn Phúc Tần được gọi là “Chúa Hiền” vì ông là một vị chúa anh minh, có tài cai trị, chăm lo cho đời sống nhân dân và mở mang bờ cõi."
+  },
+  {
+    "question": "書中提及的「東京」是指今天的哪座城市？",
+    "answer": "“Đông Kinh” trong sách là tên gọi cũ của Thăng Long, tức Hà Nội ngày nay."
+  },
+  {
+    "question": "第八回「天生聖主振威揚」，「聖主」是指誰？",
+    "answer": "“Thánh chúa” ở đây là chỉ Nguyễn Phúc Ánh (vua Gia Long), người được cho là có chân mệnh thiên tử để thống nhất đất nước."
+  },
+  {
+    "question": "《驩州記》的文體風格有何特點？",
+    "answer": "Văn phong của Hoan Châu Ký mang đậm chất truyền kỳ, dã sử, kết hợp giữa các sự kiện lịch sử có thật và các yếu tố huyền ảo, kỳ lạ."
+  },
+  {
+    "question": "書中「金龍」的意象有何象徵意義？",
+    "answer": "Hình tượng “Rồng vàng” (Kim Long) thường tượng trưng cho bậc đế vương, chân mệnh thiên tử và điềm lành của quốc gia."
+  },
+  {
+    "question": "在第八回中，西山阮文岳的出身如何？",
+    "answer": "Nguyễn Văn Nhạc xuất thân từ một gia đình thường dân ở ấp Tây Sơn, ban đầu làm nghề buôn trầu."
+  },
+  {
+    "question": "第八回中，定王阮福淳為何會失敗？",
+    "answer": "Định vương Nguyễn Phúc Thuần thất bại vì tin dùng gian thần Trương Phúc Loan, chính sự thối nát, khiến lòng dân oán ghét và quân Tây Sơn có cớ để nổi dậy."
+  },
+  {
+    "question": "《越南開國志傳》如何看待西山起義？",
+    "answer": "Sách miêu tả cuộc khởi nghĩa Tây Sơn vừa như một cuộc nổi dậy của “giặc cỏ” làm đảo lộn trật tự, nhưng cũng thừa nhận tài năng quân sự và vai trò lịch sử của anh em Nguyễn Huệ."
+  },
+  {
+    "question": "《越南開國志傳》中，光中皇帝如何於瀝涔、胥мит大破暹兵？",
+    "answer": "Vua Quang Trung đã dùng kế mai phục, lợi dụng địa hình sông nước hiểm trở và quy luật thủy triều để dụ quân Xiêm vào trận địa, sau đó dùng hỏa công và pháo binh tiêu diệt toàn bộ hạm đội địch."
+  },
+  {
+    "question": "鄭阮分爭時期，以何江為界？",
+    "answer": "Sông Gianh (trong sách gọi là Linh Giang - 靈江) được coi là ranh giới tự nhiên chia cắt Đàng Ngoài của chúa Trịnh và Đàng Trong của chúa Nguyễn trong suốt thời kỳ Trịnh-Nguyễn phân tranh."
+  },
+  {
+    "question": "阮岳與阮惠兄弟之間，嫌隙因何而生？",
+    "answer": "Mâu thuẫn nảy sinh chủ yếu từ việc tranh giành quyền lực và địa vị. Sau khi Nguyễn Huệ đại phá quân Thanh và tự xưng hoàng đế ở phương Bắc, uy thế của ông vượt xa người anh là Nguyễn Nhạc (Thái Đức Hoàng Đế), dẫn đến sự nghi kỵ và xung đột quân sự giữa hai bên."
+  },
+  {
+    "question": "《驩州記》中，藍江龍現，是何徵兆？",
+    "answer": "Theo truyện, việc rồng xuất hiện trên sông Lam là điềm lành, báo hiệu sự ra đời của một bậc chân mệnh thiên tử hoặc một vị anh hùng sẽ giúp dân cứu nước."
+  },
+  {
+    "question": "黎昭統帝敗走後，其最終結局如何？",
+    "answer": "Sau khi đại bại trước quân Tây Sơn, vua Lê Chiêu Thống chạy sang Trung Quốc lưu vong. Ông qua đời tại đó trong sự u uất và không bao giờ có thể quay lại quê hương."
+  }
+]

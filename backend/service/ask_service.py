@@ -27,6 +27,6 @@ def ask_llm_with_rag(question: str) -> str:
             Câu hỏi: {question}
             Trả lời ngắn gọn, bằng tiếng Việt dễ hiểu."""
 
-    print(f"🔍 Prompt cho LLM: {prompt[:500]}...")  # In ra 100 ký tự đầu tiên của prompt
+    print(f"🔍 Prompt cho LLM: {prompt[:500]}...")
     # 4. Gọi LLM local sinh câu trả lời
     return generate_answer(prompt)
