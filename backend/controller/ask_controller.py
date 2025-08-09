@@ -11,8 +11,8 @@ class AskRequest(BaseModel):
 
 @router.post("/ask")
 async def ask(req: AskRequest):
-    answer = ask_llm_with_rag(req.question)
-    return {"answer": answer}
+    answer, context = ask_llm_with_rag(req.question)
+    return {"answer": answer, "context": context}
 
 @router.get("/debug/chunks")
 def get_chunks_preview():

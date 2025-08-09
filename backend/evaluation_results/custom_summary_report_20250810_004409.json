@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-10T00:44:09.127141",
+  "total_evaluations": 30,
+  "overall_scores": {
+    "groundedness": 0.5732958887020747,
+    "relevance": 0.47694622203707693,
+    "factual_consistency": 0.9283333333333333,
+    "hallucination_detection": 0.5666666666666665,
+    "context_utilization": 0.22488766610622407,
+    "truth_similarity": 0.6506770749886831
+  }
+}

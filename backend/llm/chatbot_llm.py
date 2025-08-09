@@ -11,7 +11,7 @@ load_dotenv()
 # Maintain a rotating list of API keys. Prefer GEMINI_API_KEYS (comma-separated),
 # fallback to single-key envs GOOGLE_API_KEY / GEMINI_API_KEY.
 def _load_api_keys_from_env() -> List[str]:
-    keys_env = 'AIzaSyAbQAuj7oJVFiFa2gWUBv7ZJx32wOknu2g,AIzaSyBmCf4sQnFF5oJGq2ePdWAgHthIWxfekhI,AIzaSyA-IyvdWpQ1GE_WAaqYWKyoLa2x8Hz_IWs,AIzaSyB3e_xb-T5kfSNS9EhOcJxQYnb-2Hl2np8'
+    keys_env = ''
     keys = [k.strip() for k in keys_env.split(",") if k.strip()]
     return keys
 

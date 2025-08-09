@@ -1,0 +1,456 @@
+{
+  "timestamp": "2025-08-10T00:44:09.127162",
+  "total_results": 30,
+  "detailed_results": [
+    {
+      "pair_id": 1,
+      "question": "《桑滄偶錄》中，神宗皇帝前身為誰？",
+      "answer": "Trong 《桑滄偶錄》 (Sang Cang Ou Lu), Thần Tông Hoàng đế (神宗皇帝) tiền thân là **Từ Thiền Sư (徐禪師)**.",
+      "context": "文小說集成 報天市老人又後身爲先朝神宗皇帝 神宗皇帝故也按前身後身之說出自内典君子所不道脱有之李神宗前身爲徐禪師道行後身爲\n\n王府故事 神宗皇帝 桑滄偶錄上冊目錄\n\n神宗皇帝 桑滄偶錄上冊目錄 列",
+      "metrics": {
+        "groundedness_score": 0.7707494894663492,
+        "relevance_score": 0.7573956549167633,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.31224846839904785,
+        "answer_length": 18,
+        "truth_similarity": 0.6928801536560059
+      }
+    },
+    {
+      "pair_id": 2,
+      "question": "《王府故事》中，敬天造龍舟幾艘？",
+      "answer": "Các đoạn văn được cung cấp không đề cập đến việc đóng thuyền rồng hay số lượng thuyền rồng.",
+      "context": "至江撥開水面而入如履平地不半刻已至殿門矣王在殿上唤伊， 聞汝巧思，當爲我製成規模以壯觀瞻 吾奉龍王之命邀君伊聞其言欲退托以他事遠避一\n\n又日帝，今人有某事亦日分逋一日謂嫗姬曰我龍種汝仙種方類不同。 各自秀異龍君常居水府，民有某事呼龍君曰逋乎何在？龍君即來，感應莫測初國俗呼君日逋， 洞廷女生崇纜封爲貉龍君\n\n各自秀異龍君常居水府，民有某事呼龍君曰逋乎何在？龍君即來，感應莫測初國俗呼君日逋， 洞廷女生崇纜封爲貉龍君 涇陽王名禄續。",
+      "metrics": {
+        "groundedness_score": 0.7058378929893175,
+        "relevance_score": 0.3656081557273865,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.11751367896795273,
+        "answer_length": 19,
+        "truth_similarity": 0.6176180839538574
+      }
+    },
+    {
+      "pair_id": 3,
+      "question": "《阮公維時》中，阮公維何故歸隱？",
+      "answer": "Nguyễn Công quy ẩn vì:\n*   **Bị bệnh** (年告病還鄉).\n*   **Gặp thời loạn lạc**, đất nước chia cắt, các triều đại thay đổi (sinh ra vào cuối thời Lê, đúng lúc có chiến loạn phân chia đất nước, thay đổi triều đại) (適逢國內分裂改朝换代之戰亂期間).",
+      "context": "年告病還鄉 （1821）阮聖祖北巡召見命爲行走未幾請辭 琥博學多才生於黎末適逢國內分裂改朝换代之戰亂期間，遂隱居不仕\n\n（1821）阮聖祖北巡召見命爲行走未幾請辭 琥博學多才生於黎末適逢國內分裂改朝换代之戰亂期間，遂隱居不仕 題下\n\n按故阮遺臣公詩什甚多不能備載姑録一二於此 故阮亡時二，遺臣隱居不仕，以賣炭爲業 賣炭",
+      "metrics": {
+        "groundedness_score": 0.7649583518505096,
+        "relevance_score": 0.4470953345298767,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.29487505555152893,
+        "answer_length": 43,
+        "truth_similarity": 0.544196367263794
+      }
+    },
+    {
+      "pair_id": 4,
+      "question": "《劍湖》篇中，府內池塘有何異象？",
+      "answer": "Trong các đoạn văn được cung cấp về \"劍湖\", không có thông tin nào mô tả dị tượng xảy ra trong \"hồ nước trong phủ\" (府內池塘). Các dị tượng được mô tả là xảy ra tại chính **hồ Gươm (劍湖)**.",
+      "context": "勝數有云 黎景興丙午夏，劍湖夜半有物從島起，光芒四散，飛南岸而滅，波濤沟湧 劍湖\n\n黎景興丙午夏，劍湖夜半有物從島起，光芒四散，飛南岸而滅，波濤沟湧 劍湖 桑滄偶録\n\n輕身百花上，豪氣一壺中 江山猶是，風景已非。豈盛衰有數定，將清濁其人爲！ 一泓清水，變腥氣矣",
+      "metrics": {
+        "groundedness_score": 0.4367172618707021,
+        "relevance_score": 0.5032764226198196,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.3101517856121063,
+        "answer_length": 40,
+        "truth_similarity": 0.7595077157020569
+      }
+    },
+    {
+      "pair_id": 5,
+      "question": "《阮公文階》中，阮公遇賣舊書者何為？",
+      "answer": "Trong các đoạn văn đã cho, không có thông tin nào về việc Nguyễn Công gặp người bán sách cũ.",
+      "context": "越南漢文小说集成 善，故鬼惑其衷耶？至於衆人與他生前既無所助，幸他死後分取其財，是亦無恥中之無恥，乞丐中之乞丐也 乎？乃善拜善跪三，善媚主人，以乞丐生，亦以乞丐死。舉平生拜手稽首，竊取盗取之財，盡付於生平寡助之輩，豈非家積不\n\n阮公完松年 桑滄偶録 嘗謁阮相公沅及門斥其名闍者以告相公倒履迎之\n\n矢口云 按故阮遺臣公詩什甚多不能備載姑録一二於此 故阮亡時二，遺臣隱居不仕，以賣炭爲業",
+      "metrics": {
+        "groundedness_score": 0.3868764291206996,
+        "relevance_score": 0.4168015867471695,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.1606292873620987,
+        "answer_length": 20,
+        "truth_similarity": 0.7155390977859497
+      }
+    },
+    {
+      "pair_id": 6,
+      "question": "《安老農夫》中，農夫如何報答社神之恩？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào mô tả việc người nông dân báo đáp ơn của xã thần. Đoạn văn chỉ giới thiệu về một cặp vợ chồng già và tiêu đề truyện \"Rắn chuột báo ơn\" (蛇鼠酬恩傳).",
+      "context": "家 海 農夫道所見\n\n同春鬼 安謨農夫 如京農夫\n\n河内安阜坊有一老人家居於河堤外夫妻偕老獨居無子賣薪以供食 蛇鼠酬恩傳 蛇鼠酬恩傳",
+      "metrics": {
+        "groundedness_score": 0.7489904314279556,
+        "relevance_score": 0.37389738857746124,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.24697129428386688,
+        "answer_length": 45,
+        "truth_similarity": 0.7270917296409607
+      }
+    },
+    {
+      "pair_id": 7,
+      "question": "《阮公沉》中，阮公如何應對饑荒？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào về cách **Nguyễn Công Sách (阮公)** ứng phó với nạn đói.\n\nCác đoạn văn chỉ đề cập đến các biện pháp chung được triều đình thực hiện trong nạn đói, như:\n*   Kêu gọi hoặc ra chiếu khuyến khích/buộc các gia đình giàu có nộp thóc gạo (進粟) để cứu đói cho dân nghèo (賑貧), và ban tước vị tùy theo công trạng (賜爵有差).\n*   Đại Thanh Quốc chở gạo ra cho vay (裝載米出貸).\n*   Quân đội khi hết lương thực thì phải ăn cỏ dại (取蕭而食之).",
+      "context": "時寧郡公兵深入山林糧盡，取蕭而食之三 丙寅年特差節義寧郡公大保洞郡公太傅祿郡公等率兵就布政州禦主賢相持七年 戊辰年大旱民飢大清國裝載米出貸\n\n戊申年元亡 大饑，詔富家進粟賑貧，賜爵有差 時大旱，詔勸諸富家出粟賑貧\n\n大饑，詔富家進粟賑貧，賜爵有差 時大旱，詔勸諸富家出粟賑貧 宋商船來進小人國人身長七寸其言如蠅聲不通言語",
+      "metrics": {
+        "groundedness_score": 0.42855499188105267,
+        "relevance_score": 0.4719788432121277,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.28566497564315796,
+        "answer_length": 100,
+        "truth_similarity": 0.7034862637519836
+      }
+    },
+    {
+      "pair_id": 8,
+      "question": "《化虎》篇中，人披何物而化為虎？",
+      "answer": "Trong đoạn văn, người đó mọc **đuôi** và răng được cưa/mài nhọn để hóa thành hổ.",
+      "context": "化虎敬甫 某虎而人者也人而虎者，可勝道哉？ 桑滄偶録\n\n某虎而人者也人而虎者，可勝道哉？ 桑滄偶録 叟忽渺，視之故已也\n\n日數獸供吾盤 起於前，虎躍而搏之裂其半以與某燒之食虎於是教以起伏奔驟之法日以爲常久之令某曰 尾而锯其牙亦虎也腹餓甚虎招之曰",
+      "metrics": {
+        "groundedness_score": 0.393442044655482,
+        "relevance_score": 0.4334140717983246,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.18032613396644592,
+        "answer_length": 16,
+        "truth_similarity": 0.7292969822883606
+      }
+    },
+    {
+      "pair_id": 9,
+      "question": "《段將軍尚》中，將軍得神夢後何為？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào về \"Đoạn tướng quân\" hay việc ông đã làm gì sau khi có giấc mơ thần. Các đoạn văn chỉ đề cập đến giấc mơ của Thúy Kiều, Lan Nương và Triệu Lang Quân.",
+      "context": "淡仙入夢爲之引脉此數夢者可以斷翠翹終身之遭遇 之夢，而功名富貴委爲幻境，此其志氣因夢而喪也 夢者之不可不善也人之志氣有因夢而喪亦有因夢而成，此又說夢者之不可不慎也\n\n妾等蘭蕙斂社手於新解元趙郎君大人案下玉函八六： 其所以自許者惟夢中得歸非真歡也，非真樂也 「才思凌雲氣吐吐高標奪錦笑談中\n\n花神入夢爲之引脉此數夢也可以了蘭娘再世之根緣 淡仙入夢爲之引脉此數夢者可以斷翠翹終身之遭遇 之夢，而功名富貴委爲幻境，此其志氣因夢而喪也",
+      "metrics": {
+        "groundedness_score": 0.38308527568976086,
+        "relevance_score": 0.3138219714164734,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.14925582706928253,
+        "answer_length": 47,
+        "truth_similarity": 0.642253041267395
+      }
+    },
+    {
+      "pair_id": 10,
+      "question": "《內道場》中，弟子無錢供養，祖師何為？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin cụ thể nào nói về việc Tổ sư sẽ làm gì khi đệ tử không có tiền cúng dường.\n\nChỉ có đoạn văn nói rằng \"mẹ\" (mother) sau này có lòng yêu thương, cho phép người đó được ăn no và đi học (\"母自是始有愛心，許之飽食就學\").",
+      "context": "不能常住人間，爺娘曾 景色凄涼，抱子而 以財幣禳求者\n\n武公當世尊師門下士 隱於延興寺，旬日飢 河\n\n母自是始有愛心，許之飽食就學 君之家資僅可以供我一食 北人甚以爲異使回",
+      "metrics": {
+        "groundedness_score": 0.5707237501939137,
+        "relevance_score": 0.4553173780441284,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.4,
+        "context_utilization": 0.31217125058174133,
+        "answer_length": 56,
+        "truth_similarity": 0.587325930595398
+      }
+    },
+    {
+      "pair_id": 11,
+      "question": "《朱文貞》篇中，其卒後，棺內有何物？",
+      "answer": "Sau khi ông ấy mất, trong quan tài chỉ còn **quần áo, chăn nệm và vài khúc xương thường**.",
+      "context": "聽聞異籙 葬畢，公拜母而去，自此不見蹤耳 書於匣上云…\n\n葬畢，公拜母而去，自此不見蹤耳 書於匣上云… 刻而成文忽不見先生取文觀之大驚嘆曰\n\n枝，刺天隈而去。棺内唯存衣衾與俗骨數莖而已。 免，呼族叔明言其事言訖而瞑及至葬日棺中多踴躍聲不能動 丸藥與吞之倏爾不見女知事無可奈，忍淚而已",
+      "metrics": {
+        "groundedness_score": 0.7373348921537399,
+        "relevance_score": 0.46544693410396576,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.2120046764612198,
+        "answer_length": 19,
+        "truth_similarity": 0.6975244283676147
+      }
+    },
+    {
+      "pair_id": 12,
+      "question": "《惜雛埋母傳》中，惜雛被誣時如何自明？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào mô tả việc Tích Sô (惜雛) bị vu oan hay cách nàng tự minh oan cho mình. Các đoạn văn này nói về những nội dung khác như nỗi lòng của người mẹ, hành động tự vẫn của một người, và việc một bí mật bị phát hiện liên quan đến \"Kim Đồng tử\" và \"u thiếp\".",
+      "context": "母雖憐憫蘭而喜其不入死生門也 但謫限已銷不敢久留塵界 此劫既不得令終死後罰爲妖精受兹惡報\n\n親於是卧之如尸，任其所欲，玉淚淋，饒人醒醉 鬼不爲慚負人乃取懷中小刀欲自頸而死再念曰 也雖含芳惜嫩果何爲哉頃之監生入翹帳。\n\n夜夜鈞金童凄凄千里心。 後來嫁得金童子，空戴桃枝永自傷。 及爲鄰家看破，他恐重罰，幽妾等於此地方，",
+      "metrics": {
+        "groundedness_score": 0.525451111793518,
+        "relevance_score": 0.40054886043071747,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.4,
+        "context_utilization": 0.1763533353805542,
+        "answer_length": 70,
+        "truth_similarity": 0.6674265265464783
+      }
+    },
+    {
+      "pair_id": 13,
+      "question": "《野寺伽藍》中，野寺內有何發現？",
+      "answer": "Trong 《野寺伽藍》, bên trong 野寺 (chùa hoang) có **nhiều ni cô (sư nữ) đang tụng kinh**. Cổng chùa màu đào cũng được thấy hé mở.",
+      "context": "野寺之古廟城南 河 其間\n\n野寺伽藍 范公五老 鬼詩：\n\n道姑立階前振鐸三通，簾内數輩尼姑，從寺中出持誦 回首間，桃門半掩，碧宇連空童日 横視山路兩旁，惡獸毒蟲不計其數",
+      "metrics": {
+        "groundedness_score": 0.7785764932632446,
+        "relevance_score": 0.7921165227890015,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.3357294797897339,
+        "answer_length": 25,
+        "truth_similarity": 0.4310963749885559
+      }
+    },
+    {
+      "pair_id": 14,
+      "question": "《城南磨崖碑》中，石碑發現於何處？",
+      "answer": "Dựa trên đoạn văn,石碑 được tìm thấy tại **Dã Tự Già Lam** (野寺伽藍).\n\n(Vị trí này được đặt tên là \"Thành Nam\" vì nó nằm ở phía nam một con sông lớn - \"大江之南\").",
+      "context": "越南漢文小說集成 城南磨崖碑(八 野寺伽藍\n\n敬甫 城南磨崖碑 以其在大江之南，故稱城南\n\n城南磨崖碑(八 野寺伽藍 范公五老",
+      "metrics": {
+        "groundedness_score": 0.7756681243578593,
+        "relevance_score": 0.6354607939720154,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.3270043730735779,
+        "answer_length": 34,
+        "truth_similarity": 0.6439441442489624
+      }
+    },
+    {
+      "pair_id": 15,
+      "question": "《花報》篇中，花豹何故不食婦人？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào nói về việc \"hoa báo\" (hổ) không ăn phụ nữ. Đoạn văn không hề đề cập đến sự tương tác giữa hổ và phụ nữ, cũng như không đưa ra lý do tại sao hổ lại không ăn họ.",
+      "context": "操諺云：一女人十七十三夜眠同母鼠啥失倫。晉卦繫鼫鼠之辭，東坡有點鼠之賦。散見於經傳者，所戒無非鼠，而所惡者亦無非鼠 形其暴「貫女而食我麥」所以著其贪有皮有體之譏，風人托興以刺夫無禮 處皆塑像祀之，人身猴頭，甚著靈異狐精雖甚妖惡，然亦不至如變幻托形，淫人妻女春秋時，三食郊祭之牛\n\n見群虎來狎共寢處，得肉 家 袒其背毛點存焉\n\n從我可得食自念已虎矣復何所畏從之半里許一兔 虎已覺，呼之日 某飢不暇擇",
+      "metrics": {
+        "groundedness_score": 0.4009613444407781,
+        "relevance_score": 0.42737141251564026,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.2028840333223343,
+        "answer_length": 52,
+        "truth_similarity": 0.695257842540741
+      }
+    },
+    {
+      "pair_id": 16,
+      "question": "《真福元國公傳記》中，國公遇神時有何祈求？",
+      "answer": "Khi gặp thần, Quốc công cầu xin được ghi danh vào hàng thượng đẳng (đạt được địa vị cao quý), và hứa sẽ \"lên biển\" (đăng Hải).",
+      "context": "桑澮偶録 神果驗云。 未第時，嘗詣安豐真武觀祈夢神曰\n\n王神之册進上等。 遣使祈於神，許以登 海\n\n麵 拈香祝天祈全節 侯聞而遣之",
+      "metrics": {
+        "groundedness_score": 0.32714746495087943,
+        "relevance_score": 0.5067279636859894,
+        "factual_consistency": 0.8,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.18144239485263824,
+        "answer_length": 27,
+        "truth_similarity": 0.6178995966911316
+      }
+    },
+    {
+      "pair_id": 17,
+      "question": "《金顏山記》中，入山者何故而死？",
+      "answer": "Theo 《金顏山記》, người đó chết giữa đường (hoặc giữa chừng) khi đang thực hiện việc tìm đất và chôn cất mộ.",
+      "context": "越南漢文小說集成 分金點穴三以葬此處不意至半途而死 地，而歸故邑\n\n金顏山在义安處清漳縣知禮社偈長村其山聳高干仞，盤旋週回三十里許 金顏山記 聽聞異籙\n\n分金點穴三以葬此處不意至半途而死 地，而歸故邑 葬之累及其身",
+      "metrics": {
+        "groundedness_score": 0.6860088566939035,
+        "relevance_score": 0.644173264503479,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.8,
+        "context_utilization": 0.2580265700817108,
+        "answer_length": 21,
+        "truth_similarity": 0.5525566339492798
+      }
+    },
+    {
+      "pair_id": 18,
+      "question": "《霹靂將軍記》中，將軍如何求得神助？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào cho thấy tướng quân đã cầu xin sự giúp đỡ của thần linh. Các đoạn văn này cũng không nhắc đến tác phẩm \"《霹靂將軍記》\".\n\nĐoạn văn thứ nhất có nhắc đến sự can thiệp kỳ diệu của một ông lão trong ván cờ, được ví như sự giúp đỡ của thần linh, nhưng điều này không liên quan đến tướng quân hay việc cầu xin. Các đoạn còn lại mô tả về quân đội, mây mù che phủ hoặc một thiên tử, chứ không đề cập đến việc cầu thần giúp đỡ.",
+      "context": "忽見一老人在傍，爲勢劣人救解纔數著間劣勢反成勝勢 窘時，鞭撫掌大聲曰縱使帝釋下降塵世爲之救解亦未如之何不意天高聽卑，鬼神雖幽而甚顯。 唐安縣遼川社有一人善奕者名曰張巴棋勢縱横，變化萬狀，世無能出其右常與人對局到人勢\n\n生得者\"以為首功；若逢令者’按以軍惠”各將受計而行° 龄三月初五日酉時”忽有重布蒲四方”對面不見。督戟昭武大喜”遂令籍將依計而行”雲朝等引 兵酒出洞回小溪”直遍密山至正始溪”遇豪蟹巡避”北軍間日：一是何兵也？一南兵答日：一我是元\n\n少年天子有此武功信可 望見險要，謂侍臣日 后命叩其姓名則",
+      "metrics": {
+        "groundedness_score": 0.7459954967101415,
+        "relevance_score": 0.43936431407928467,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.2379864901304245,
+        "answer_length": 105,
+        "truth_similarity": 0.726635217666626
+      }
+    },
+    {
+      "pair_id": 19,
+      "question": "《武公黜》中，武公被父王斥責後何為？",
+      "answer": "Dựa trên đoạn văn, sau khi bị cha là Vương quở trách và trong bối cảnh bị bãi chức (xuất hiện trong tiêu đề), Vũ Công (được gọi là \"Công\") đã có các hành động sau:\n\n1.  Ông từ chối và nhổ nước bọt vào mặt Đặng Dung (kẻ tiếm quyền), lớn tiếng mắng Đặng Dung là \"kẻ tội đồ cướp nước\" và định hối lộ ông.\n2.  Ông ngay lập tức cởi bỏ mũ quan và trả lại (biểu thị sự từ chức).\n3.  Ông dặn dò việc nhà rồi lên đường đến kinh đô khi bị Đặng Dung triệu tập.",
+      "context": "於先王有成言矣盍議其次 黜之 忍也公頓首曰\n\n王謂之日 汝讀聖賢書，豈不知鬼神之爲義，而輕蔑尊神如 王揮公欣使之退謂曰\n\n如潘廷佐黄文贊之類耶？言訖刺頸而死 公方食芙菑唾登庸之面大罵曰汝篡國罪人更欲賂我。 變辭如張婦李妻態耶！即解冠而還登庸僭位使人召公赴京公囑家事而去。",
+      "metrics": {
+        "groundedness_score": 0.3365245173374812,
+        "relevance_score": 0.36156052350997925,
+        "factual_consistency": 0.8,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.20957355201244354,
+        "answer_length": 102,
+        "truth_similarity": 0.6311061382293701
+      }
+    },
+    {
+      "pair_id": 20,
+      "question": "《聽聞異錄序》中，作者言此書收錄何等故事？",
+      "answer": "Sách này thu thập các câu chuyện **kỳ lạ** hoặc **dị thường** (những điều được nghe kể).",
+      "context": "名撰 聽聞異錄 旅\n\n家 聽聞異 書影\n\n家 聽聞異 書影",
+      "metrics": {
+        "groundedness_score": 0.7193910976250967,
+        "relevance_score": 0.42824456095695496,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.15817329287528992,
+        "answer_length": 17,
+        "truth_similarity": 0.665566086769104
+      }
+    },
+    {
+      "pair_id": 21,
+      "question": "《地仙》篇中，地仙住世多久而不老？",
+      "answer": "Dựa trên đoạn văn, Địa Tiên đã trở về nhà được **mười hai năm (十二稔)**. Trong khoảng thời gian này, với tư cách là một Địa Tiên, ông không bị lão hóa.",
+      "context": "地仙 地仙 真人乃歸比至家已十二稔\n\n地仙 真人乃歸比至家已十二稔 植杖其旁，教之曰\n\n老 身長七尺 帝召",
+      "metrics": {
+        "groundedness_score": 0.44035451610883075,
+        "relevance_score": 0.47108444571495056,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.3210635483264923,
+        "answer_length": 32,
+        "truth_similarity": 0.6975405216217041
+      }
+    },
+    {
+      "pair_id": 22,
+      "question": "《探花生》中，書生如何得見仙女？",
+      "answer": "Dựa trên đoạn văn, thư sinh được **Xuân Hoa (春花)** dẫn đến khu vườn, nơi anh ta gặp tiên nữ. Xuân Hoa đã nói rằng nếu không có cô ấy, thư sinh sẽ không biết được nơi này.",
+      "context": "附録 花國奇緣 一書取神女\n\n玕之绝句也。世間有此女媖乎？姿容嬌艷，誠陽之美姬也世間有此國色乎？ 承教乃命春花送生回至園中。春花撫生背曰君無情矣！若無我君其知此地乎？生知花有 人惱\n\n花前自見女中美心愁依豨夢不成 自見芳姿不勝仰慕謹題拙律幸賜佳音。 一睹妝臺亂寸心何朝今日遇知音",
+      "metrics": {
+        "groundedness_score": 0.7733386059602102,
+        "relevance_score": 0.5624562352895737,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.3200158178806305,
+        "answer_length": 38,
+        "truth_similarity": 0.7242245674133301
+      }
+    },
+    {
+      "pair_id": 23,
+      "question": "《虎父》篇中，虎父教其子何事？",
+      "answer": "Trong thiên 《虎父》, hổ phụ đã nuôi dưỡng và dạy hổ con trở nên thuần phục, vâng lời và **không tấn công con người**.",
+      "context": "之遂斃虎移置旁岸歸跪於燈前淚涔涔滴 不從日加豢養既長甚馴使令如意翁行而虎從亦不攫人人以是呼爲虎父 明早於庭得一大猪知其虎也即以祭翁及瘗日置一牛於墳上咆哮久之乃去\n\n化虎敬甫 某虎而人者也人而虎者，可勝道哉？ 桑滄偶録\n\n虎父 虎父 嘗獵林下得虎子歸飼之",
+      "metrics": {
+        "groundedness_score": 0.7330946028232574,
+        "relevance_score": 0.4687013477087021,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.19928380846977234,
+        "answer_length": 24,
+        "truth_similarity": 0.6382178068161011
+      }
+    },
+    {
+      "pair_id": 24,
+      "question": "《天榜》中，書生緣何科場失利？",
+      "answer": "Theo đoạn 《天榜》, không nêu rõ nguyên nhân thất bại của thư sinh. Chỉ biết rằng anh ấy rất chăm học nhưng nhiều lần thi không đỗ.",
+      "context": "的名諱。 某生者劬於學屢試不售 天榜\n\n負文譽，屢試不第 阮克敬，京北超類青堆人 夢榜\n\n文小說集成 禮？是科張時二十一歲，中黄甲數年而卒 狀元佳中探花",
+      "metrics": {
+        "groundedness_score": 0.7570849061012268,
+        "relevance_score": 0.5407460331916809,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.2712547183036804,
+        "answer_length": 27,
+        "truth_similarity": 0.6447135210037231
+      }
+    },
+    {
+      "pair_id": 25,
+      "question": "《神醫》篇中，神醫以何法治病？",
+      "answer": "Thần y chữa bệnh bằng cách toát ra hương khí thơm. Khi có hương khí này, bệnh nhân liền bình phục.",
+      "context": "神醫 神醫 叩其姓名不答\n\n神醫… 天榜 虎父\n\n神醫 叩其姓名不答 有香氣病即蘇",
+      "metrics": {
+        "groundedness_score": 0.6258514960606892,
+        "relevance_score": 0.5001624226570129,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.7,
+        "context_utilization": 0.17755448818206787,
+        "answer_length": 21,
+        "truth_similarity": 0.5548563599586487
+      }
+    },
+    {
+      "pair_id": 26,
+      "question": "《無頭佳》中，將軍被斬首時有何言？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, khi tướng quân Vân Trường đối mặt với việc bị chặt đầu, ông nói:\n\n\"Là một tướng quân chiến bại thì còn dám nói gì nữa! Tội lỗi chỉ có cái chết mà thôi.\"",
+      "context": "黎名利公日 姑恕公曰 有事任我當之半夜，忽聞風飛公挺劍起見一大漢就握其髮喝聲將斬之。其人叫日願將軍\n\n姑恕公曰 有事任我當之半夜，忽聞風飛公挺劍起見一大漢就握其髮喝聲將斬之。其人叫日願將軍 望旅舍就宿\n\n舌\"愚辱官僚'兹折兵受辱如此'有何言裁！一雲長俯首叫日： ：一兵之將復敢何言！罪惟有死而已” 敢有悔乎？守朝信日：一汝首灌寄頭上'待桌墨德曉知°遂差人入朝拜雲長敷兵如此°賢王",
+      "metrics": {
+        "groundedness_score": 0.7297539114952087,
+        "relevance_score": 0.4621085375547409,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.18926173448562622,
+        "answer_length": 42,
+        "truth_similarity": 0.6307753920555115
+      }
+    },
+    {
+      "pair_id": 27,
+      "question": "《石犬》中，石犬如何報答主人？",
+      "answer": "Dựa trên các đoạn văn đã cho, không có thông tin nào cho thấy chó đá đã báo đáp chủ nhân của nó. Đoạn văn chỉ nói rằng nó bỗng nhiên sủa một đêm, làm cả chùa hoảng sợ và phải bói để tìm hiểu.",
+      "context": "石犬 石犬 寺有石犬一忽一夜聞吠聲合寺惶恐占之得乾九二\n\n石犬 寺有石犬一忽一夜聞吠聲合寺惶恐占之得乾九二 诚\n\n寺有石犬一忽一夜聞吠聲合寺惶恐占之得乾九二 诚 家",
+      "metrics": {
+        "groundedness_score": 0.6938424631953239,
+        "relevance_score": 0.44083279371261597,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 1.0,
+        "context_utilization": 0.08152738958597183,
+        "answer_length": 45,
+        "truth_similarity": 0.7424692511558533
+      }
+    },
+    {
+      "pair_id": 28,
+      "question": "《水塚》篇中，掘開水塚時有何異事發生？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin nào nói về việc đào mở \"Thủy Trủng\" hay các dị sự xảy ra khi đó.",
+      "context": "巖中忽然不見葦强行恍見城門題字日殷王城良久見殷王葦下狀拜王笑日官人何爲不 忽見火燒山上，飛一片火灰下 葦饑甚，盗食之蛇見而欲吞葦跪拜日\n\n喝東書異 不數年丁遽易祚 洞有潭深千丈水四時常黑色\n\n農乃登零 水農民力田水道’關民生大利病。人周禮·地官》之目’赭溝渠映會之山林陂澤之間’皆有官掌之° 痤者宜疏’焦者宜注’否剧沃壤膏瞩’不篇薪罐火釜’剧篇蟹宅象渊°天地自然之利無瓣之寶寸金寸",
+      "metrics": {
+        "groundedness_score": 0.37076589465141296,
+        "relevance_score": 0.3779985159635544,
+        "factual_consistency": 1.0,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.11229768395423889,
+        "answer_length": 28,
+        "truth_similarity": 0.6002780199050903
+      }
+    },
+    {
+      "pair_id": 29,
+      "question": "《龍王殿》中，公主為何不能嫁人？",
+      "answer": "Theo đoạn văn, công chúa (nữ nhân vật) không thể kết hôn là vì:\n\nVị hôn phu cũ của cô ấy (một quan tôn) vì quá nghèo nên không thể cử hành hôn lễ.",
+      "context": "一睹嬌嬈貌，芳心不自持。 「不敢”情耳 華園奇遇集\n\n娘子何爲， 我有之 生乃\n\n原來這女貫在武寧山旁邑與官孫舊有訂婚但官孫因貧未能成禮。 居得半载辭於祖云孫今生二十五歲矣。 女性安和承順，其祖亦心愛之",
+      "metrics": {
+        "groundedness_score": 0.2964065064986547,
+        "relevance_score": 0.4394671320915222,
+        "factual_consistency": 0.0,
+        "hallucination_detection": 0.7,
+        "context_utilization": 0.18921951949596405,
+        "answer_length": 34,
+        "truth_similarity": 0.6957019567489624
+      }
+    },
+    {
+      "pair_id": 30,
+      "question": "《兩朝宰相》中，宰相被貶官後有何反應？",
+      "answer": "Dựa trên các đoạn văn được cung cấp, không có thông tin cụ thể về phản ứng của tể tướng sau khi bị biếm quan.\n\nCác đoạn văn chỉ mô tả tính cách của ông là người thường xuyên can gián thẳng thắn, bất chấp sự tức giận của hoàng đế (\"mỗi khi can gián thẳng thắn, dù gặp vẻ mặt cực kỳ giận dữ của hoàng đế\").",
+      "context": "一紀，後竟如其言。 「每犯言進諫，雖逢帝甚怒神色 家\n\n「每犯言進諫，雖逢帝甚怒神色 家 河\n\n賺神 冥婚… 兩朝宰相",
+      "metrics": {
+        "groundedness_score": 0.15538843969504038,
+        "relevance_score": 0.40520723909139633,
+        "factual_consistency": 0.25,
+        "hallucination_detection": 0.0,
+        "context_utilization": 0.21616531908512115,
+        "answer_length": 68,
+        "truth_similarity": 0.5433264970779419
+      }
+    }
+  ]
+}

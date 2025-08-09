@@ -4,11 +4,14 @@ from rag.content_retriever import load_documents
 from rag import globals as rag_globals
 from llm.chatbot_llm import generate_answer  # giả sử bạn dùng LLM local
 
-# Load FAISS index và documents 1 lần khi import
-# index, embeddings = load_faiss_index()
-# documents = load_documents()
+from rag.embedding import load_embedding_model
 
-def ask_llm_with_rag(question: str) -> str:
+# Load FAISS index và documents 1 lần khi import
+rag_globals.index = load_faiss_index()
+rag_globals.documents = load_documents()
+rag_globals.embeddings = load_embedding_model()
+
+def ask_llm_with_rag(question: str) -> tuple[str, str]:
     # 1. Embed câu hỏi
     query_vec = embed_query(question, rag_globals.embeddings)
     print(f"🔍 Câu hỏi đã được nhúng: {query_vec[:10]}...")  # In ra 10 giá trị đầu tiên của vector
@@ -29,4 +32,4 @@ def ask_llm_with_rag(question: str) -> str:
 
     print(f"🔍 Prompt cho LLM: {prompt[:500]}...")
     # 4. Gọi LLM local sinh câu trả lời
-    return generate_answer(prompt)
+    return generate_answer(prompt), context
