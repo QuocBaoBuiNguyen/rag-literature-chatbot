@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+langchain
+openai
+faiss-cpu
+sentence-transformers
+
+tiktoken                  
+transformers
+google-generativeai
+torch                     
+python-dotenv             
+
+httpx                     
+tenacity                  
+
+ipython
+
+# Evaluation dependencies
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
